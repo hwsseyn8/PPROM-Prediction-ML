@@ -12,7 +12,7 @@ This study implements a complete machine learning workflow for PPROM prediction,
 - Comprehensive evaluation and visualization
 
 ## Project Structure
-
+```bash
 pprom-prediction-study/
 ├── README.md
 ├── LICENSE
@@ -27,11 +27,10 @@ pprom-prediction-study/
 ├── results/
 ├── tests/
 └── docs/
-
+bash'''
 ## Quick Start
 
 1. Install dependencies:
-```bash
 pip install -r requirements.txt
 Prepare your data in data/raw/data23.csv
 
