@@ -27,7 +27,7 @@ pprom-prediction-study/
 ├── results/
 ├── tests/
 └── docs/
-bash'''
+'''
 ## Quick Start
 
 1. Install dependencies:
