@@ -27,7 +27,6 @@ pprom-prediction-study/
 ├── results/
 ├── tests/
 └── docs/
-exit
 ```
 ## Quick Start
 
