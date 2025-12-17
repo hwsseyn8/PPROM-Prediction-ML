@@ -1,0 +1,19 @@
+name: pprom-ml
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - pip
+  - numpy
+  - pandas
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - imbalanced-learn
+  - xgboost
+  - lightgbm
+  - shap
+  - optuna
+  - pip:
+    - -r requirements.txt
