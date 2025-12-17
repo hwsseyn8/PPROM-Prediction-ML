@@ -27,7 +27,8 @@ pprom-prediction-study/
 ├── results/
 ├── tests/
 └── docs/
-'''
+exit
+```
 ## Quick Start
 
 1. Install dependencies:
