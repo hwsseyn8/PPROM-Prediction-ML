@@ -43,7 +43,7 @@ Or
   python scripts/train_model.py
   python scripts/evaluate_model.py
 
-##Key Features
+## Key Features
 
 -Multiple Models: Logistic Regression, Random Forest, XGBoost, LightGBM, SVM, etc.
 -Class Imbalance Handling: SMOTE, ADASYN, Random Oversampling/Undersampling
@@ -52,7 +52,7 @@ Or
 -Comprehensive Evaluation: ROC curves, precision-recall curves, calibration plots
 -SHAP Interpretation: Model interpretability using SHAP values
 
-##Results
+## Results
 
 Results are saved in the results/ directory including:
 -Model performance metrics
@@ -60,5 +60,5 @@ Results are saved in the results/ directory including:
 -Calibration curves
 -Confusion matrices
 
-##Citation
+## Citation
 
