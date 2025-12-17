@@ -62,4 +62,4 @@ Results are saved in the results/ directory including:
 
 ## Citation
 
-Study under Submission, data and full set of codes will be presented afterwards.
+Study under Submission; full repository will be presented afterwards.
