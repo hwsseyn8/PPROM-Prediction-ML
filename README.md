@@ -30,13 +30,15 @@ pprom-prediction-study/
 ```
 ## Quick Start
 
-1. Install dependencies:
+First Install dependencies:
 pip install -r requirements.txt
 Prepare your data in data/raw/data23.csv
 
-Run the pipeline:
-python scripts/run_pipeline.py
+Then
+  Run the pipeline:
+  python scripts/run_pipeline.py
 
-Or run individual components:
-python scripts/train_model.py
-python scripts/evaluate_model.py
+Or 
+  Run individual components:
+  python scripts/train_model.py
+  python scripts/evaluate_model.py
